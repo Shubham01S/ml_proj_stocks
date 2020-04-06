@@ -2,7 +2,7 @@
 ## Table of Contents
 * [General Info](#general-info)
 * [Technologies](#technologies)
-* [Setup]
+* [setup](#setup)
 
 ## Genereal Info
 This is a sample
