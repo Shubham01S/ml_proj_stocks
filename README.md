@@ -1,10 +1,10 @@
 # ml_proj_stockprdeiction
-##Table of Contents
-*[General Info](#general-info)
-*[Technologies](#technologies)
+## Table of Contents
+* [General Info](#general-info)
+* [Technologies](#technologies)
 
-##Genereal Info
+## Genereal Info
 This is a sample
 
-##Technologies
-*Machine Learning
+## Technologies
+* Machine Learning
